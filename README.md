@@ -11,7 +11,7 @@
 
 ---
 
-- I'm have **plenty of software experience** in real life
+- I have **plenty of software experience** in real life
 - This profile is essentially just a **graveyard of misc projects** I've made throughout the years
 - I'm working as a software engineer contractor as my day job
 - I'm **building games** with a friend and might occasionally contribute to **open source**

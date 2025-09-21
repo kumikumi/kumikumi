@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-[I'm active on X](https://x.com/ankkala), follow me for updates on our gamedev progress and for some miscellaneous deranged thoughts 😁
+[**I'm active on X**](https://x.com/ankkala), follow me for updates on our gamedev progress and for some miscellaneous deranged thoughts 😁
 
 Come chat with me about tech or whatever else 😍
 
